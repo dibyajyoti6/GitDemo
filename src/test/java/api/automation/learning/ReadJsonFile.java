@@ -23,6 +23,8 @@ public class ReadJsonFile {
 		System.out.println("FirstName:"+firstName);
 		System.out.println("lastName:"+lastName);
 		
+		System.out.println("new code added");
+		
 		
 	}
 
