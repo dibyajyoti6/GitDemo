@@ -16,5 +16,20 @@ public class PrintWitoutLoop {
 		}
 		
 	}
-
+	
+	public static void printNumber1(int number){
+		if(number<=10){
+			System.out.println(number);
+			printNumber(number+1);
+		}
+		
+	}
+	public static void printNumber2(int number){
+		if(number<=10){
+			System.out.println(number);
+			printNumber(number+1);
+		}
+		
+	}
+   
 }
