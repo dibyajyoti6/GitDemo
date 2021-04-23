@@ -31,5 +31,13 @@ public class PrintWitoutLoop {
 		}
 		
 	}
+	
+	public static void printNumber3(int number){
+		if(number<=10){
+			System.out.println(number);
+			printNumber(number+1);
+		}
+		
+	}
    
 }
