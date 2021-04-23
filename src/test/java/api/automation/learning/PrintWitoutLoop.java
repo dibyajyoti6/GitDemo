@@ -4,6 +4,7 @@ public class PrintWitoutLoop {
 
 	public static void main(String[] args) {
 		printNumber(1);
+		System.out.println("done");
 
 	}
 	
